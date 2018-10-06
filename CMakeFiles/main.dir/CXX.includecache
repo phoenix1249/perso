@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxime/Maxime/perso/character.cpp
+character.h
+/home/maxime/Maxime/perso/character.h
+
+/home/maxime/Maxime/perso/character.h
+string
+-
+iostream
+-
+
+/home/maxime/Maxime/perso/main.cpp
+character.h
+/home/maxime/Maxime/perso/character.h
+
